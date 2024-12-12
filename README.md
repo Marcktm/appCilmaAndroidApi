@@ -77,12 +77,18 @@ Una aplicación móvil desarrollada en **Java** utilizando **Android Studio** co
 
 ## **Capturas de Pantalla**
 1. **Pantalla Principal:**
+
+
    ![Pantalla Principal](./img/Screenshot%202024-12-08%2012.40.12.png)
 
 2. **Listado de Ciudades:**
+
+
    ![Listado de Ciudades](./img/Screenshot%202024-12-08%2012.43.58.png)
 
 3. **Detalles del Clima:**
+
+
    ![Detalles del Clima](./img/Screenshot%202024-12-08%2012.44.30.png)
    ![Detalles del Clima](./img/Screenshot%202024-12-08%2012.45.46.png)
 
